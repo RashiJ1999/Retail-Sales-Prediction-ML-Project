@@ -1,4 +1,4 @@
-Retail-Sales-Prediction
+**Retail-Sales-Prediction**
 ![image](https://github.com/RashiJ1999/Retail-Sales-Prediction-ML-Project/assets/112487553/73419654-8f33-4acc-b168-b132e61ec49b)
 
 
